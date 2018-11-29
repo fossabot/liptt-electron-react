@@ -1,4 +1,6 @@
 # liptt
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flightyen%2Fliptt-electron-react.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flightyen%2Fliptt-electron-react?ref=badge_shield)
+
 
 (還在實驗開發中)
 
@@ -25,3 +27,6 @@
 
 ## Change Log
 > 待補
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flightyen%2Fliptt-electron-react.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flightyen%2Fliptt-electron-react?ref=badge_large)
